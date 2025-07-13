@@ -20,6 +20,17 @@
     }
     input:checked + .slider { background-color: #2196F3; }
     input:checked + .slider:before { transform: translateX(22px); }
+    .github-link {
+      display: block;
+      margin-top: 16px;
+      text-align: center;
+      font-size: 14px;
+      text-decoration: none;
+      color: #0366d6;
+    }
+    .github-link:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -31,6 +42,16 @@
     </label>
   </div>
   <div class="status" id="statusText">Loading...</div>
+
+  <!-- GitHub project link -->
+  <a 
+    href="https://github.com/yourusername/FocusTube" 
+    class="github-link" 
+    target="_blank"
+  >
+    View on GitHub
+  </a>
+
   <script src="popup.js"></script>
 </body>
 </html>
