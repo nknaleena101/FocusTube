@@ -6,6 +6,8 @@
 
 ## ✨ Overview
 
+![Image](https://github.com/user-attachments/assets/b12383e7-a598-4fe3-bd8d-e79cf527e5fc)
+
 FocusTube hides all video recommendations from the YouTube home screen — no more flashy thumbnails competing for your attention.  
 You keep full access to search, subscriptions, and the sidebar, so you can watch exactly what you came for — **without getting ambushed by irrelevant suggestions**.
 
