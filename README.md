@@ -6,8 +6,9 @@
 
 ## ✨ Overview
 
-FocusTube hides all video recommendations from the YouTube home screen — no more flashy thumbnails competing for your attention.  
-You keep full access to search, subscriptions, and the sidebar, so you can watch exactly what you came for — **without getting ambushed by irrelevant suggestions**.
+![Image](https://github.com/user-attachments/assets/b12383e7-a598-4fe3-bd8d-e79cf527e5fc)
+
+When FocusTube is turned on, your YouTube home feed is wiped clean — no distracting recommended videos, no endless scroll traps. You can still use the search bar, browse your subscriptions, **so you can still search and watch any videos you actually came for** — Stay focused, stay in control.
 
 ---
 
